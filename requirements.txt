@@ -1,0 +1,8 @@
+fastmcp
+langchain
+langchain-community
+pydantic
+dotenv
+sqlalchemy
+sqlite3
+langchain-google-genai
